@@ -51,17 +51,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  
 </span>
-
-*/<h4>Social Medias:</h4>
-<a href="https://www.tiktok.com/@alexx.dev?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-</a>
-<h4>Support:</h4>
-<p><a href="https://www.buymeacoffee.com/alexx.dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
-</br></br>
-*/
 
 
 <br/>
