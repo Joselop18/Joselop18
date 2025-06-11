@@ -55,16 +55,3 @@
 
 
 <br/>
-
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/alexxadrian/count.svg" alt="dev-akshat profile views" /> 
-</p>
-
-<hr/>
-
