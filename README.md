@@ -14,7 +14,7 @@
 
 🎨 Passionate about Junior Programmer development, creative programming and creating educational content for developers.
 
-🌱 Currently exploring React, Node.js, Express, databases and deployment with Vercel.
+🌱 Currently exploring React, Node.js, Express, databases and deployment with Vercel and Firebase.
 
 🤝 Open to collaborate on open source projects, creative tools and anything that brings value to the dev community.
 
