@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Lopez!</h1>
+<h1 align="center">Hi 👋, I'm Jose Aguilar!</h1>
 
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
   <img 
